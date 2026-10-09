@@ -2,7 +2,7 @@
 
 A simple 2D platformer game built with Kaboom.js featuring a player that can move, jump, collect coins, and progress through multiple levels.
 
-Link to website: vibe-coding-slop.vercel.app
+Link to website: https://vibe-coding-slop.vercel.app/
 
 ## Features
 
